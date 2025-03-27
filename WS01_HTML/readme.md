@@ -6,7 +6,7 @@
 <body>
   <h1>Riikka Remes &#127800</h1>
   <p>I am Riikka and I am a woman living in Finland. I have two dogs and I work in a travel agency. I also study IT in Laurea.</p>
-  <img src="./IMG_0978.jpg" alt="nainen katselee merta korkealla näköalatasanteella selkä kameraan päin">
+  <img src="./IMG_0983.jpg" alt="nainen katselee merta korkealla näköalatasanteella selkä kameraan päin">
   <h2>&#128054 Lista harrastuksistani</h2>
     <ul>
       <li>Koirien kanssa ulkoilu</li>

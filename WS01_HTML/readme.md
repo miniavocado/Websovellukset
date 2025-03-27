@@ -8,13 +8,13 @@
   <p>I am Riikka and I am a woman living in Finland. I have two dogs and I work in a travel agency. I also study IT in Laurea.</p>
   <img src="C:\Users\riikk\OneDrive\Kuvat\Mallorca 2017\IMG_0978.jpg" alt="nainen katselee merta korkealla näköalatasanteella selkä kameraan päin">
   <h2>Lista harrastuksistani</h2>
-    <ol>
+    <ul>
       <li>- Koirien kanssa ulkoilu</li>
       <li>- Crossfit</li>
       <li>- Lumilautailu talvisin</li>
       <li>- Taidemaalaus</li>
       <li>- Leipominen</li>
       <li>- Matkustelu</li>
-      </ol>
+      </ul>
 </body>
 </html>

@@ -16,5 +16,6 @@
       <li>Leipominen</li>
       <li>Matkustelu</li>
       </ul>
+      <a href="https://fi.pinterest.com/">Pinterest</a>
 </body>
 </html>

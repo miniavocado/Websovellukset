@@ -1,0 +1,1 @@
+Tämä on websovellusten kehittäminen oppintojakson repositorio. Tänne tallennan jokaisen moduulin työpajatehtävät omiin kansioihinsa.
